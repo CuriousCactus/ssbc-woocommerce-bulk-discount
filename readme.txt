@@ -8,7 +8,7 @@ Stable tag: 2.3.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Apply fine-grained bulk discounts to items in the shopping cart with this WooCommerce extension.
+Apply fine-grained bulk discounts to items in the shopping cart with this WooCommerce extension.  Edited to deal with items in the cart having the same product ID.
 
 == Description ==
 
