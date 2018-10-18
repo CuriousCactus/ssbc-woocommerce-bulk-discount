@@ -1,6 +1,8 @@
-# woocommerce-bulk-discount
+# ssbc-woocommerce-bulk-discount
 
-Applies fine-grained bulk discounts to items in the shopping cart. Edited by CuriousCactus to deal with items in the cart having the same product ID. Original readme below:
+Applies fine-grained bulk discounts to items in the shopping cart. Edited by CuriousCactus to deal with items in the cart having the same product ID. 
+
+Original readme below:
 
 === WooCommerce Bulk Discount ===
  
