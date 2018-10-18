@@ -1,11 +1,23 @@
-﻿=== WooCommerce Bulk Discount ===
+# woocommerce-bulk-discount
+
+Applies fine-grained bulk discounts to items in the shopping cart. Edited by CuriousCactus to deal with items in the cart having the same product ID. Original readme below:
+
+=== WooCommerce Bulk Discount ===
+ 
 Contributors: Rene Puchinger
+
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=6VEQ8XXK6B3UE
+
 Tags: woocommerce, bulk, discount
+
 Requires at least: 3.5
+
 Tested up to: 4.1.1
+
 Stable tag: 2.3.1
+
 License: GPLv3
+
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 Apply fine-grained bulk discounts to items in the shopping cart with this WooCommerce extension.  Edited to deal with items in the cart having the same product ID.
