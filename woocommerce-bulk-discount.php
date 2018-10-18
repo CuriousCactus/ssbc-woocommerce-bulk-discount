@@ -1,29 +1,13 @@
 <?php
 /*
-Plugin Name: SSBC WooCommerce Bulk Discount
-Plugin URI: http://wordpress.org/plugins/woocommerce-bulk-discount/
-Description: Apply fine-grained bulk discounts to items in the shopping cart. Edited to deal with items in the cart having the same product ID.
-Author: Rene Puchinger and Lois Overvoorde
-Version: 3.0.0
-Author URI: https://profiles.wordpress.org/rene-puchinger/ and Lois Overvoorde
-License: GPL3
-
-    Copyright (C) 2013  Rene Puchinger
-
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-*/
+ * Plugin Name: 	SSBC - WooCommerce - Bulk Discount
+ * Plugin URI: 		https://github.com/curiouscactus/woocommerce-bulk-discount and https://github.com/wp-plugins/woocommerce-bulk-discount
+ * Description:	 	Apply fine-grained bulk discounts to items in the shopping cart. Edited to deal with items in the cart having the same product ID.
+ * Author: 			Lois Overvoorde (adapted from woocommerce-bulk-discount by Rene Puchinger)
+ * Author URI: 		https://github.com/curiouscactus and https://profiles.wordpress.org/rene-puchinger/
+ * Text Domain:     ssbc-woocommerce-bulk-discount
+ * Version: 		1.0.0
+ */
 
 if ( !defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
